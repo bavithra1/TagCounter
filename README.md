@@ -59,6 +59,8 @@ Collection: metrics
 Document with id = 'tags_total_count'
 Field: 'value': ##total e.g. 5 ##
 
+<img width="761" alt="Screen Shot 2021-05-10 at 8 32 37 PM" src="https://user-images.githubusercontent.com/62027571/117754289-e3504500-b1ce-11eb-9705-8ee500928ac9.png">
+
 # File Structure
 
 -- TAGCOUNTER
@@ -90,6 +92,8 @@ Field: 'value': ##total e.g. 5 ##
           #test cases
 Logs in Json Payload under global resource type
 User defined Log based metric created with filter total_tag_count_desc
+
+Screen Shot 2021-05-10 at 8.25.49 PM![image](https://user-images.githubusercontent.com/62027571/117753811-f7e00d80-b1cd-11eb-997d-d68a9160e369.png)
 
 Screen Shot 2021-05-10 at 8.22.28 PM![image](https://user-images.githubusercontent.com/62027571/117753596-9881fd80-b1cd-11eb-83a0-78178ace9853.png)
 
