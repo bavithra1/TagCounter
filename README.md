@@ -1,7 +1,6 @@
-# TagCounter
-FastApi, Firestore Google Cloud Introduction
 # Tag Counter
 
+#Tech Stack: FastApi, FireStore Google Cloud
 Tag Counter consists of api end points
 1. Get Tag Stats:
 
