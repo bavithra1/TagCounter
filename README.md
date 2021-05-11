@@ -1,7 +1,11 @@
 # Tag Counter
 
 #Tech Stack: FastApi, FireStore Google Cloud
+
+
 Tag Counter consists of api end points
+
+
 1. Get Tag Stats:
 
 An endpoint that will return the current incremented counts for all stored tags.
@@ -97,13 +101,25 @@ Screen Shot 2021-05-10 at 8.25.49 PM![image](https://user-images.githubuserconte
 
 Screen Shot 2021-05-10 at 8.22.28 PM![image](https://user-images.githubusercontent.com/62027571/117753596-9881fd80-b1cd-11eb-83a0-78178ace9853.png)
 
+Google Cloud Run
+
+https://tag-counter-service-i6hyr7jqka-wl.a.run.app
+
 
 TO Explore:
+
 More test cases and testing with jmeter/locust
+
 Log Structure
+
 Refactoring Service File
+
 batch (used)
+
 Pub/Sub
+
 Distributed Counter to reconsider the document structure
+
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
