@@ -90,6 +90,10 @@ Field: 'value': ##total e.g. 5 ##
           #test cases
 Logs in Json Payload under global resource type
 User defined Log based metric created with filter total_tag_count_desc
+
+Screen Shot 2021-05-10 at 8.22.28 PM![image](https://user-images.githubusercontent.com/62027571/117753596-9881fd80-b1cd-11eb-83a0-78178ace9853.png)
+
+
 TO Explore:
 More test cases and testing with jmeter/locust
 Log Structure
